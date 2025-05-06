@@ -18,10 +18,10 @@
 • Предварительные требования: Установленный Go</br>
 Шаги:</br>
 1) Клонируй репозиторий:</br>
-• git clone https://github.com/Onigiri-droid/goTest.git</br>
-• cd word-frequency-analyzer-go</br>
+git clone https://github.com/Onigiri-droid/goTest.git</br>
+cd word-frequency-analyzer-go</br>
 2) Запусти программу, передав путь к текстовому файлу:</br>
-• go run . War_and_Peace.txt</br>
+go run . War_and_Peace.txt</br>
 
 Пример вывода:</br>
 "the" mentioned 5342</br>
